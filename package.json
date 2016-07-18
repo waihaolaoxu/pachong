@@ -1,0 +1,23 @@
+{
+  "name": "pachong",
+  "version": "1.0.0",
+  "description": "基于nodejs开发的页面爬虫小程序",
+  "main": "pachong.js",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "前端老徐",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waihaolaoxu/pachong.git"
+  },
+  "bugs": {
+    "url": "https://github.com/waihaolaoxu/pachong/issues"
+  },
+  "homepage": "https://github.com/waihaolaoxu/pachong#readme"
+}
